@@ -54,7 +54,7 @@ body {
     padding: 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2px;
+    gap: 1px;
   }
 
   .feature {
