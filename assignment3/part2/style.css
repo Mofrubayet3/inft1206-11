@@ -8,7 +8,10 @@ div {
     width: 200px;
     height: 100px;
     text-align: center;
-
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2rem; /*it was a trial and error find for me*/
 
 }
 
