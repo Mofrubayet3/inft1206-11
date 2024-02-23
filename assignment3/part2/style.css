@@ -12,6 +12,10 @@ div {
     align-items: center;
     display: flex;
     font-size: 2rem; /*it was a trial and error find for me*/
+    background-color: maroon;
+    color: wheat;
+    text-shadow: 2px 1px 5px black;
+    border: 1px solid;
 
 }
 
