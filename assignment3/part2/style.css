@@ -4,3 +4,17 @@ html {
 
 /* Your CSS below here */
 
+div {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+
+
+}
+
+*{
+  padding:0%;
+  margin: 0%;
+  box-sizing:border-box;
+
+}
