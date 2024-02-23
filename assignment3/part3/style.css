@@ -48,7 +48,22 @@ span a{
 }
 
 .container>li{
-  
+  margin-top: 1rem;
+  border: 2px solid maroon;
+  padding: 4px;
+  text-align: center;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+a:active{
+  color: blue;
+}
+
+a[href^="https://"] {
+  background: url(external-link-52.png) no-repeat 100% 0 ;
+  background-size: 16px 16px;
+  padding-right: 19px;
 }
 
 footer{
