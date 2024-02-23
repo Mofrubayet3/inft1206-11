@@ -12,6 +12,8 @@ body {
   margin: 0 auto;
   min-width: 1000px;
   max-width: 1400px;
+  font-family: serif;
+  line-height: 1.2;
 }
 
 /* Layout */
@@ -68,6 +70,13 @@ a[href^="https://"] {
 
 footer{
   clear: both;
+}
+
+header h1{
+  font-size: 3em;
+  text-align: center;
+  letter-spacing: 0.1em;
+  font-family: sans-serif;
 }
 
 header, section, aside, nav, footer {
