@@ -8,6 +8,7 @@ div {
     width: 200px;
     height: 100px;
     text-align: center;
+    margin: auto;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -15,13 +16,11 @@ div {
     background-color: maroon;
     color: wheat;
     text-shadow: 2px 1px 5px black;
-    border: 1px solid;
-
-}
-
-*{
-  padding:0%;
-  margin: 0%;
-  box-sizing:border-box;
+    border-radius: 10px;
+    border: 1px solid darkgrey;
+    background-image: linear-gradient(to bottom right, rgb(0,0,0),
+    rgb (0,0,0/.2) 30%);   
+    box-shadow: 1px 2px 20px 1px grey, inset 1px 1px white, inset -1px -1px black;
+    
 
 }
