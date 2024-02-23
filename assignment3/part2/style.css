@@ -21,6 +21,5 @@ div {
     background-image: linear-gradient(to bottom right, rgb(0,0,0),
     rgb (0,0,0/.2) 30%);   
     box-shadow: 1px 2px 20px 1px grey, inset 1px 1px white, inset -1px -1px black;
-    
-
+ 
 }
