@@ -24,6 +24,7 @@ section {
 aside {
   float: left;
   width: 30%;
+  line-height: 1rem;
 }
 
 nav {
@@ -31,8 +32,10 @@ nav {
   width: 20%;
 }
 
-footer {
-  clear: both;
+header, section, aside, nav, footer {
+  font-size: 2em;
+  padding: 20px;
+  font-family: "";
 }
 
 header, section, aside, nav, footer {
